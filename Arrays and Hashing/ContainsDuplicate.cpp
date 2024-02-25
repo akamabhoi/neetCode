@@ -6,7 +6,7 @@ public:
         unordered_map<int, int> mp;
 
         // Iterate through the vector
-        for(int num: nums){
+        for(auto num: nums){
             // If the number is already in the map, a duplicate is found
             if(mp[num] >= 1){
                 return true;
