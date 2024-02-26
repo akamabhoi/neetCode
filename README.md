@@ -13,3 +13,8 @@
 
 - Problem Description: [Valid Anagram - LeetCode](https://leetcode.com/problems/valid-anagram/description/)
 - Solution: [ValidAnagram.cpp](./Arrays%20and%20Hashing/ValidAnagram.cpp)
+
+### Valid Anagram
+
+- Problem Description: [Two Sum - LeetCode](https://leetcode.com/problems/two-sum/description/)
+- Solution: [TwoSum.cpp](./Arrays%20and%20Hashing/TwoSum.cpp)
