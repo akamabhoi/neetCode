@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Function to find two numbers in the given vector that sum up to the target value.
+    // Function to find two numbers in the given a vector that sum up to the target value.
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> mp; // Hash map to store the numbers and their indices.
         vector<int> ans; // Vector to store the indices of the two numbers that sum up to the target.
