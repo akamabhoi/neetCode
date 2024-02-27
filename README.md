@@ -24,7 +24,7 @@
 - Problem Description: [Group Anagrams - LeetCode](https://leetcode.com/problems/group-anagrams/description/)
 - Solution: [GroupAnagrams.cpp](./Arrays%20and%20Hashing/GroupAnagrams.cpp)
 
-### Two Sum
+### Top K Frequent Elements
 
 - Problem Description: [Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - Solution: [TopKFrequentElements.cpp](./Arrays%20and%20Hashing/TopKFrequentElements.cpp)
