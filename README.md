@@ -28,3 +28,13 @@
 
 - Problem Description: [Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - Solution: [TopKFrequentElements.cpp](./Arrays%20and%20Hashing/TopKFrequentElements.cpp)
+
+### Product of Array Except Self
+
+- Problem Description: [Product of Array Except Self - LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/)
+- Solution: [ProductOfArrayExceptSelf.cpp](./Arrays%20and%20Hashing/ProductOfArrayExceptSelf.cpp)
+
+### Valid Sudoku
+
+- Problem Description: [Valid Sudoku - LeetCode](https://leetcode.com/problems/valid-sudoku/description/)
+- Solution: [ValidSudoku.cpp](./Arrays%20and%20Hashing/ValidSudoku.cpp)
