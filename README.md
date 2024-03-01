@@ -38,3 +38,8 @@
 
 - Problem Description: [Valid Sudoku - LeetCode](https://leetcode.com/problems/valid-sudoku/description/)
 - Solution: [ValidSudoku.cpp](./Arrays%20and%20Hashing/ValidSudoku.cpp)
+
+### Longest Consecutive Sequence
+
+- Problem Description: [Longest Consecutive Sequence - Leetcode](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- Solution: [LongestConsecutiveSequence.cpp](./Arrays%20and%20Hashing/LongestConsecutiveSequence.cpp)
