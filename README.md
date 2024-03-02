@@ -44,6 +44,8 @@
 - Problem Description: [Longest Consecutive Sequence - Leetcode](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - Solution: [LongestConsecutiveSequence.cpp](./Arrays%20and%20Hashing/LongestConsecutiveSequence.cpp)
 
+## Stack
+
 ### Valid Parentheses
 
 - Problem Description: [Valid Parentheses - Leetcode](https://leetcode.com/problems/valid-parentheses/description/)
