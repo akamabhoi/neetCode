@@ -49,4 +49,4 @@
 ### Valid Parentheses
 
 - Problem Description: [Valid Parentheses - Leetcode](https://leetcode.com/problems/valid-parentheses/description/)
-- Solution: [LongestConsecutiveSequence.cpp](./Stack/ValidParentheses.cpp)
+- Solution: [ValidParentheses.cpp](./Stack/ValidParentheses.cpp)
