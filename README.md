@@ -50,3 +50,8 @@
 
 - Problem Description: [Valid Parentheses - Leetcode](https://leetcode.com/problems/valid-parentheses/description/)
 - Solution: [ValidParentheses.cpp](./Stack/ValidParentheses.cpp)
+
+### Min Stack
+
+- Problem Description: [Min Stack - LeetCode](https://leetcode.com/problems/min-stack/description/)
+- Solution: [MinStack.cpp](./Stack/MinStack.cpp)
