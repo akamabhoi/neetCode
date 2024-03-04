@@ -55,3 +55,8 @@
 
 - Problem Description: [Min Stack - LeetCode](https://leetcode.com/problems/min-stack/description/)
 - Solution: [MinStack.cpp](./Stack/MinStack.cpp)
+
+### Evaluate Reverse Polish Notation
+
+- Problem Description: [Evaluate Reverse Polish Notation - LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+- Solution: [EvaluateRPN.cpp](./Stack/EvaluateRPN.cpp)
