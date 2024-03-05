@@ -60,3 +60,8 @@
 
 - Problem Description: [Evaluate Reverse Polish Notation - LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - Solution: [EvaluateRPN.cpp](./Stack/EvaluateRPN.cpp)
+
+### Generate Parentheses
+
+- Problem Description: [Generate Parentheses - LeetCode](https://leetcode.com/problems/generate-parentheses/description/)
+- Solution: [GenerateParentheses.cpp](./Stack/GenerateParentheses.cpp)
