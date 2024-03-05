@@ -13,7 +13,7 @@ public:
             // If the token is an operand (a number), convert it to an integer and push onto the stack
             if (ch != "+" && ch != "-" && ch != "*" && ch != "/")
             {
-                st.push(std::stoi(ch));
+                st.push(stoi(ch));
             }
             // If the token is an operator, perform the corresponding arithmetic operation
             else
