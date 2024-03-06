@@ -65,3 +65,8 @@
 
 - Problem Description: [Generate Parentheses - LeetCode](https://leetcode.com/problems/generate-parentheses/description/)
 - Solution: [GenerateParentheses.cpp](./Stack/GenerateParentheses.cpp)
+
+### Daily Temperatures
+
+- Problem Description: [Daily Temperatures - LeetCode](https://leetcode.com/problems/daily-temperatures/description/)
+- Solution: [DailyTemperatures.cpp](./Stack/DailyTemperatures.cpp)
