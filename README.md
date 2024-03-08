@@ -75,3 +75,8 @@
 
 - Problem Description: [Car Fleet - LeetCode](https://leetcode.com/problems/car-fleet/description/)
 - Solution: [CarFleet.cpp](./Stack/CarFleet.cpp)
+
+### Largest Rectangle in Histogram
+
+- Problem Description: [Largest Rectangle in Histogram - LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+- Solution: [LargestRectangleInHistogram.cpp](./Stack/LargestRectangleInHistogram.cpp)
