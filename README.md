@@ -80,3 +80,10 @@
 
 - Problem Description: [Largest Rectangle in Histogram - LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 - Solution: [LargestRectangleInHistogram.cpp](./Stack/LargestRectangleInHistogram.cpp)
+
+## Two Pointers
+
+### Valid Palindrome
+
+- Problem Description: [Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/)
+- Solution: [ValidPalindrome.cpp](./Two%20Pointer/ValidPalindrome.cpp)
