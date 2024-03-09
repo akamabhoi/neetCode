@@ -87,3 +87,8 @@
 
 - Problem Description: [Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/)
 - Solution: [ValidPalindrome.cpp](./Two%20Pointer/ValidPalindrome.cpp)
+
+### Two Sum 2 - Input Array is Sorted
+
+- Problem Description: [Two Sum 2 - Input Array is Sorted - LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- Solution: [TwoSum2.cpp](./Two%20Pointer/TwoSum2.cpp)
