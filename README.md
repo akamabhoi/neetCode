@@ -92,3 +92,8 @@
 
 - Problem Description: [Two Sum 2 - Input Array is Sorted - LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - Solution: [TwoSum2.cpp](./Two%20Pointer/TwoSum2.cpp)
+
+### 3 Sum
+
+- Problem Description: [3 Sum- LeetCode](https://leetcode.com/problems/3sum/)
+- Solution: [3Sum.cpp](./Two%20Pointer/3Sum.cpp)
