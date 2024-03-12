@@ -102,3 +102,8 @@
 
 - Problem Description: [Container With Most Water- LeetCode](https://leetcode.com/problems/container-with-most-water/)
 - Solution: [ContainerWithMostWater.cpp](./Two%20Pointer/ContainerWithMostWater.cpp)
+
+### Trapping Rain Water
+
+- Problem Description: [Trapping Rain Water- LeetCode](https://leetcode.com/problems/trapping-rain-water/)
+- Solution: [TrappingRainWater.cpp](./Two%20Pointer/TrappingRainWater.cpp)
