@@ -114,3 +114,8 @@
 
 - Problem Description: [Binary Search - LeetCode](https://leetcode.com/problems/binary-search/description/)
 - Solution: [BinarySearch.cpp](./Binary%20Search/BinarySearch.cpp)
+
+### Search a 2D Maatrix
+
+- Problem Description: [Search a 2D Maatrix - LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- Solution: [SearchA2DMatrix.cpp](./Binary%20Search/SearchA2DMatrix.cpp)
