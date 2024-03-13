@@ -107,3 +107,10 @@
 
 - Problem Description: [Trapping Rain Water- LeetCode](https://leetcode.com/problems/trapping-rain-water/)
 - Solution: [TrappingRainWater.cpp](./Two%20Pointer/TrappingRainWater.cpp)
+
+## Binary Search
+
+### Binary Search
+
+- Problem Description: [Binary Search - LeetCode](https://leetcode.com/problems/binary-search/description/)
+- Solution: [BinarySearch.cpp](./Binary%20Search/BinarySearch.cpp)
