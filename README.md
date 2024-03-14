@@ -119,3 +119,8 @@
 
 - Problem Description: [Search a 2D Maatrix - LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - Solution: [SearchA2DMatrix.cpp](./Binary%20Search/SearchA2DMatrix.cpp)
+
+### Koko Eating Banana
+
+- Problem Description: [Koko Eating Banana - LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
+- Solution: [KokoEatingBananas.cpp](./Binary%20Search/KokoEatingBananas.cpp)
