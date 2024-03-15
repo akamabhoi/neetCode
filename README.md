@@ -124,3 +124,8 @@
 
 - Problem Description: [Koko Eating Banana - LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
 - Solution: [KokoEatingBananas.cpp](./Binary%20Search/KokoEatingBananas.cpp)
+
+## Find Minimum In Roated Sorted Array
+
+- Problem Description: [Find Minimum In Roated Sorted Array - LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- Solution: [FindMinimumInRoatedSortedArray.cpp](./Binary%20Search/FindMinimumInRoatedSortedArray.cpp)
