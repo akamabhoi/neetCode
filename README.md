@@ -129,3 +129,8 @@
 
 - Problem Description: [Find Minimum In Roated Sorted Array - LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - Solution: [FindMinimumInRoatedSortedArray.cpp](./Binary%20Search/FindMinimumInRoatedSortedArray.cpp)
+
+## Search In Roated Sorted Array
+
+- Problem Description: [Search In Roated Sorted Array - LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- Solution: [SearchInRotatedSortedArray.cpp](./Binary%20Search/SearchInRotatedSortedArray.cpp)
