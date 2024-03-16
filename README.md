@@ -134,3 +134,8 @@
 
 - Problem Description: [Search In Roated Sorted Array - LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - Solution: [SearchInRotatedSortedArray.cpp](./Binary%20Search/SearchInRotatedSortedArray.cpp)
+
+## Time Based Key Value Store
+
+- Problem Description: [Time Based Key Value Store - LeetCode](https://leetcode.com/problems/time-based-key-value-store/description/)
+- Solution: [TimeBasedKeyValueStore.cpp](./Binary%20Search/TimeBasedKeyValueStore.cpp)
