@@ -139,3 +139,8 @@
 
 - Problem Description: [Time Based Key Value Store - LeetCode](https://leetcode.com/problems/time-based-key-value-store/description/)
 - Solution: [TimeBasedKeyValueStore.cpp](./Binary%20Search/TimeBasedKeyValueStore.cpp)
+
+## Median of two sorted arrays
+
+- Problem Description: [Median of two sorted arrays - LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- Solution: [MedianOfTwoSortedArrays.cpp](./Binary%20Search/MedianOfTwoSortedArrays.cpp)
