@@ -125,22 +125,22 @@
 - Problem Description: [Koko Eating Banana - LeetCode](https://leetcode.com/problems/koko-eating-bananas/description/)
 - Solution: [KokoEatingBananas.cpp](./Binary%20Search/KokoEatingBananas.cpp)
 
-## Find Minimum In Roated Sorted Array
+### Find Minimum In Roated Sorted Array
 
 - Problem Description: [Find Minimum In Roated Sorted Array - LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - Solution: [FindMinimumInRoatedSortedArray.cpp](./Binary%20Search/FindMinimumInRoatedSortedArray.cpp)
 
-## Search In Roated Sorted Array
+### Search In Roated Sorted Array
 
 - Problem Description: [Search In Roated Sorted Array - LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - Solution: [SearchInRotatedSortedArray.cpp](./Binary%20Search/SearchInRotatedSortedArray.cpp)
 
-## Time Based Key Value Store
+### Time Based Key Value Store
 
 - Problem Description: [Time Based Key Value Store - LeetCode](https://leetcode.com/problems/time-based-key-value-store/description/)
 - Solution: [TimeBasedKeyValueStore.cpp](./Binary%20Search/TimeBasedKeyValueStore.cpp)
 
-## Median of two sorted arrays
+### Median of two sorted arrays
 
 - Problem Description: [Median of two sorted arrays - LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - Solution: [MedianOfTwoSortedArrays.cpp](./Binary%20Search/MedianOfTwoSortedArrays.cpp)
