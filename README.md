@@ -156,3 +156,8 @@
 
 - Problem Description: [Longest Substring Without Reapeating Characters - LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - Solution: [LongestSubstringWithoutReapeatingCharacters.cpp](./Sliding%20Window/LongestSubstringWithoutReapeatingCharacters.cpp)
+
+### Longest Reapeating Characters Replacement
+
+- Problem Description: [Longest Reapeating Characters Replacement - LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- Solution: [LongestRepeatingCharacterReplacement.cpp](./Sliding%20Window/LongestRepeatingCharacterReplacement.cpp)
