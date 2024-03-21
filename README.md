@@ -161,3 +161,8 @@
 
 - Problem Description: [Longest Reapeating Characters Replacement - LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - Solution: [LongestRepeatingCharacterReplacement.cpp](./Sliding%20Window/LongestRepeatingCharacterReplacement.cpp)
+
+### Permutation in String
+
+- Problem Description: [Permutation in String - LeetCode](https://leetcode.com/problems/permutation-in-string/description/)
+- Solution: [PermutationInString.cpp](./Sliding%20Window/PermutationInString.cpp)
