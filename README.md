@@ -166,3 +166,8 @@
 
 - Problem Description: [Permutation in String - LeetCode](https://leetcode.com/problems/permutation-in-string/description/)
 - Solution: [PermutationInString.cpp](./Sliding%20Window/PermutationInString.cpp)
+
+### Minimum Window Substring
+
+- Problem Description: [Minimum Window Substring - LeetCode](https://leetcode.com/problems/minimum-window-substring/description/)
+- Solution: [MinimumWindowSubstring.cpp](./Sliding%20Window/MinimumWindowSubstring.cpp)
