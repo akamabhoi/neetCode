@@ -171,3 +171,8 @@
 
 - Problem Description: [Minimum Window Substring - LeetCode](https://leetcode.com/problems/minimum-window-substring/description/)
 - Solution: [MinimumWindowSubstring.cpp](./Sliding%20Window/MinimumWindowSubstring.cpp)
+
+### Sliding Window Maximum
+
+- Problem Description: [Sliding Window Maximum - LeetCode](https://leetcode.com/problems/sliding-window-maximum/description/)
+- Solution: [SlidingWindowMaximum.cpp](./Sliding%20Window/SlidingWindowMaximum.cpp)
