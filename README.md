@@ -183,3 +183,8 @@
 
 - Problem Description: [Reverse Linked List - LeetCode](https://leetcode.com/problems/reverse-linked-list/description/)
 - Solution: [ReverseLinkedList.cpp](./Linked%20List/ReverseLinkedList.cpp)
+
+### Merge Two Sorted Lists
+
+- Problem Description: [Merge Two Sorted Lists - LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
+- Solution: [MergeTwoSortedLists.cpp](./Linked%20List/MergeTwoSortedLists.cpp)
