@@ -198,3 +198,8 @@
 
 - Problem Description: [Reorder List - LeetCode](https://leetcode.com/problems/reorder-list/)
 - Solution: [ReorderList.cpp](./Linked%20List/ReorderList.cpp)
+
+### Remove Nth Node From End of List
+
+- Problem Description: [Remove Nth Node From End of List - LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- Solution: [RemoveNthNodeFromEndOfList.cpp](./Linked%20List/RemoveNthNodeFromEndOfList.cpp)
