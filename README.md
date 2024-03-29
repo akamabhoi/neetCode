@@ -203,3 +203,8 @@
 
 - Problem Description: [Remove Nth Node From End of List - LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - Solution: [RemoveNthNodeFromEndOfList.cpp](./Linked%20List/RemoveNthNodeFromEndOfList.cpp)
+
+## Copy List with Random Pointer
+
+- Problem Description: [Copy List with Random Pointer - LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+- Solution: [CopyListwithRandomPointer.cpp](./Linked%20List/CopyListwithRandomPointer.cpp)
