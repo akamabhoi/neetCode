@@ -213,3 +213,8 @@
 
 - Problem Description: [Add Two Numbers - LeetCode](https://leetcode.com/problems/add-two-numbers/)
 - Solution: [AddTwoNumbers.cpp](./Linked%20List/AddTwoNumbers.cpp)
+
+## Find The Duplicate Number
+
+- Problem Description: [Find The Duplicate Number - LeetCode](https://leetcode.com/problems/find-the-duplicate-number/description/)
+- Solution: [FindTheDuplicateNumber.cpp](./Linked%20List/FindTheDuplicateNumber.cpp)
