@@ -204,22 +204,22 @@
 - Problem Description: [Remove Nth Node From End of List - LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - Solution: [RemoveNthNodeFromEndOfList.cpp](./Linked%20List/RemoveNthNodeFromEndOfList.cpp)
 
-## Copy List with Random Pointer
+### Copy List with Random Pointer
 
 - Problem Description: [Copy List with Random Pointer - LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 - Solution: [CopyListwithRandomPointer.cpp](./Linked%20List/CopyListwithRandomPointer.cpp)
 
-## Add Two Numbers
+### Add Two Numbers
 
 - Problem Description: [Add Two Numbers - LeetCode](https://leetcode.com/problems/add-two-numbers/)
 - Solution: [AddTwoNumbers.cpp](./Linked%20List/AddTwoNumbers.cpp)
 
-## Find The Duplicate Number
+### Find The Duplicate Number
 
 - Problem Description: [Find The Duplicate Number - LeetCode](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - Solution: [FindTheDuplicateNumber.cpp](./Linked%20List/FindTheDuplicateNumber.cpp)
 
-## LRU Cache
+### LRU Cache
 
 - Problem Description: [LRU Cache - LeetCode](https://leetcode.com/problems/lru-cache/description/)
 - Solution: [LRUCache.cpp](./Linked%20List/LRUCache.cpp)
