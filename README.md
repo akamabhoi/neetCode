@@ -218,3 +218,8 @@
 
 - Problem Description: [Find The Duplicate Number - LeetCode](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - Solution: [FindTheDuplicateNumber.cpp](./Linked%20List/FindTheDuplicateNumber.cpp)
+
+## LRU Cache
+
+- Problem Description: [LRU Cache - LeetCode](https://leetcode.com/problems/lru-cache/description/)
+- Solution: [LRUCache.cpp](./Linked%20List/LRUCache.cpp)
