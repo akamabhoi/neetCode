@@ -8,11 +8,57 @@ public:
 
     Node(int _val) {
         val = _val;
-        next = NULL;
-        random = NULL;
+        next = nullptr;
+        random = nullptr;
     }
 };
 */
+
+class Solution
+{
+public:
+    // Function to copy a linked list with random pointers
+    Node *copyRandomList(Node *head)
+    {
+        // Map to store the mapping from original nodes to their copies
+        unordered_map<Node *, Node *> nodeMap;
+
+        // Pointer to traverse the original list
+        Node *curr = head;
+
+        // Iterate over the original list to create copies of nodes
+        while (curr)
+        {
+            // Create a new node with the same value as the current node
+            Node *newNode = new Node(curr->val);
+
+            // Map the current node to its copy
+            nodeMap[curr] = newNode;
+
+            // Move to the next node in the original list
+            curr = curr->next;
+        }
+
+        // Reset the pointer to the head of the original list
+        curr = head;
+
+        // Iterate over the original list to set next and random pointers of copies
+        while (curr)
+        {
+            // Set the next pointer of the copy node to the copy of the next node
+            nodeMap[curr]->next = nodeMap[curr->next];
+
+            // Set the random pointer of the copy node to the copy of the random node
+            nodeMap[curr]->random = nodeMap[curr->random];
+
+            // Move to the next node in the original list
+            curr = curr->next;
+        }
+
+        // Return the head of the copied list
+        return nodeMap[head];
+    }
+};
 
 class Solution
 {
