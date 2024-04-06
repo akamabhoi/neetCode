@@ -223,3 +223,8 @@
 
 - Problem Description: [LRU Cache - LeetCode](https://leetcode.com/problems/lru-cache/description/)
 - Solution: [LRUCache.cpp](./Linked%20List/LRUCache.cpp)
+
+### Merge K Sorted Lists
+
+- Problem Description: [Merge K Sorted Lists - LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- Solution: [MergeKSortedLists.cpp](./Linked%20List/MergeKSortedLists.cpp)
