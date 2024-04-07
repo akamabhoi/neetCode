@@ -228,3 +228,8 @@
 
 - Problem Description: [Merge K Sorted Lists - LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - Solution: [MergeKSortedLists.cpp](./Linked%20List/MergeKSortedLists.cpp)
+
+### Reverse Nodes In K-Groups
+
+- Problem Description: [Reverse Nodes In K-Groups - LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+- Solution: [ReverseNodesInKGroups.cpp](./Linked%20List/ReverseNodesInKGroups.cpp)
