@@ -233,3 +233,10 @@
 
 - Problem Description: [Reverse Nodes In K-Groups - LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 - Solution: [ReverseNodesInKGroups.cpp](./Linked%20List/ReverseNodesInKGroups.cpp)
+
+## Tree
+
+### Balanced Binary Tree
+
+- Problem Description: [Balanced Binary Tree - LeetCode](https://leetcode.com/problems/balanced-binary-tree/description/)
+- Solution: [BalancedBinaryTree.cpp](./Tree/BalancedBinaryTree.cpp)
