@@ -240,3 +240,8 @@
 
 - Problem Description: [Balanced Binary Tree - LeetCode](https://leetcode.com/problems/balanced-binary-tree/description/)
 - Solution: [BalancedBinaryTree.cpp](./Tree/BalancedBinaryTree.cpp)
+
+### Diameter Of Binary Tree
+
+- Problem Description: [Diameter Of Binary Tree - LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+- Solution: [DiameterOfBinaryTree.cpp](./Tree/DiameterOfBinaryTree.cpp)
