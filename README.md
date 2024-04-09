@@ -250,3 +250,8 @@
 
 - Problem Description: [Invert Binary Tree - LeetCode](https://leetcode.com/problems/invert-binary-tree/description/)
 - Solution: [InvertBinaryTree.cpp](./Tree/InvertBinaryTree.cpp)
+
+### Maximum Depth Of Binary Tree
+
+- Problem Description: [Maximum Depth Of Binary Tree - LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- Solution: [MaximumDepthOfBinaryTree.cpp](./Tree/MaximumDepthOfBinaryTree.cpp)
