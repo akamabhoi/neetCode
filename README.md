@@ -245,3 +245,8 @@
 
 - Problem Description: [Diameter Of Binary Tree - LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 - Solution: [DiameterOfBinaryTree.cpp](./Tree/DiameterOfBinaryTree.cpp)
+
+### Invert Binary Tree
+
+- Problem Description: [Invert Binary Tree - LeetCode](https://leetcode.com/problems/invert-binary-tree/description/)
+- Solution: [InvertBinaryTree.cpp](./Tree/InvertBinaryTree.cpp)
