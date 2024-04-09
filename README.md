@@ -255,3 +255,8 @@
 
 - Problem Description: [Maximum Depth Of Binary Tree - LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - Solution: [MaximumDepthOfBinaryTree.cpp](./Tree/MaximumDepthOfBinaryTree.cpp)
+
+### Same Tree
+
+- Problem Description: [Same Tree - LeetCode](https://leetcode.com/problems/same-tree/description/)
+- Solution: [SameTree.cpp](./Tree/SameTree.cpp)
