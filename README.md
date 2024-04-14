@@ -260,3 +260,8 @@
 
 - Problem Description: [Same Tree - LeetCode](https://leetcode.com/problems/same-tree/description/)
 - Solution: [SameTree.cpp](./Tree/SameTree.cpp)
+
+### Sub Tree Of Another Tree
+
+- Problem Description: [Sub Tree Of Another Tree - LeetCode](https://leetcode.com/problems/subtree-of-another-tree/description/)
+- Solution: [SubTreeOfAnotherTree.cpp](./Tree/SubTreeOfAnotherTree.cpp)
