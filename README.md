@@ -265,3 +265,8 @@
 
 - Problem Description: [Sub Tree Of Another Tree - LeetCode](https://leetcode.com/problems/subtree-of-another-tree/description/)
 - Solution: [SubTreeOfAnotherTree.cpp](./Tree/SubTreeOfAnotherTree.cpp)
+
+### Lowest Common Ancestor of a Binary Search Tree
+
+- Problem Description: [Lowest Common Ancestor of a Binary Search Tree - LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- Solution: [LowestCommonAncestorOfBinarySearchTree.cpp](./Tree/LowestCommonAncestorOfBinarySearchTree.cpp)
