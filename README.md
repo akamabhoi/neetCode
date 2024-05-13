@@ -280,3 +280,8 @@
 
 - Problem Description: [Binary Tree Right Side View - LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/description/)
 - Solution: [BinaryTreeRightSideView.cpp](./Tree/BinaryTreeRightSideView.cpp)
+
+### Count Good Nodes in Binary Tree
+
+- Problem Description: [Count Good Nodes in Binary Tree - LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+- Solution: [CountGoodNodesinBinaryTree.cpp](./Tree/CountGoodNodesinBinaryTree.cpp)
