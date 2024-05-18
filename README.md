@@ -300,3 +300,8 @@
 
 - Problem Description: [Construct Binary Tree from Preorder and Inorder Traversal - LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 - Solution: [ConstructBinaryTreefromPreorderandInorderTraversal.cpp](./Tree/ConstructBinaryTreefromPreorderandInorderTraversal.cpp)
+
+### Binary Tree Maximum Path Sum
+
+- Problem Description: [Binary Tree Maximum Path Sum - LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+- Solution: [BinaryTreeMaximumPathSum.cpp](./Tree/BinaryTreeMaximumPathSum.cpp)
