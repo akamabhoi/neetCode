@@ -285,3 +285,8 @@
 
 - Problem Description: [Count Good Nodes in Binary Tree - LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 - Solution: [CountGoodNodesinBinaryTree.cpp](./Tree/CountGoodNodesinBinaryTree.cpp)
+
+### Validate Binary Search Tree
+
+- Problem Description: [Validate Binary Search Tree - LeetCode](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- Solution: [ValidateBinarySearchTree.cpp](./Tree/ValidateBinarySearchTree.cpp)
