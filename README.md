@@ -295,3 +295,8 @@
 
 - Problem Description: [Kth Smallest Element in a BST - LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - Solution: [KthSmallestElementinaBST.cpp](./Tree/KthSmallestElementinaBST.cpp)
+
+### Construct Binary Tree from Preorder and Inorder Traversal
+
+- Problem Description: [Construct Binary Tree from Preorder and Inorder Traversal - LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+- Solution: [ConstructBinaryTreefromPreorderandInorderTraversal.cpp](./Tree/ConstructBinaryTreefromPreorderandInorderTraversal.cpp)
