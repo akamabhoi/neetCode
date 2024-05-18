@@ -290,3 +290,8 @@
 
 - Problem Description: [Validate Binary Search Tree - LeetCode](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - Solution: [ValidateBinarySearchTree.cpp](./Tree/ValidateBinarySearchTree.cpp)
+
+### Kth Smallest Element in a BST
+
+- Problem Description: [Kth Smallest Element in a BST - LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+- Solution: [KthSmallestElementinaBST.cpp](./Tree/KthSmallestElementinaBST.cpp)
