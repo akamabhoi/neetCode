@@ -305,3 +305,8 @@
 
 - Problem Description: [Binary Tree Maximum Path Sum - LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 - Solution: [BinaryTreeMaximumPathSum.cpp](./Tree/BinaryTreeMaximumPathSum.cpp)
+
+### Serialize and Deserialize Binary Tree
+
+- Problem Description: [Serialize and Deserialize Binary Tree - LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+- Solution: [SerializeandDeserializeBinaryTree.cpp](./Tree/SerializeandDeserializeBinaryTree.cpp)
