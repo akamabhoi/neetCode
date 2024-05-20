@@ -310,3 +310,10 @@
 
 - Problem Description: [Serialize and Deserialize Binary Tree - LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - Solution: [SerializeandDeserializeBinaryTree.cpp](./Tree/SerializeandDeserializeBinaryTree.cpp)
+
+## Backtracking
+
+### Subsets
+
+- Problem Description: [Subsets - LeetCode](https://leetcode.com/problems/subsets/description/)
+- Solution: [Subsets.cpp](./Backtracking/Subsets.cpp)
