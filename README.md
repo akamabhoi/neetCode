@@ -322,3 +322,8 @@
 
 - Problem Description: [CombinationSum - LeetCode](https://leetcode.com/problems/combination-sum/description/)
 - Solution: [CombinationSum.cpp](./Backtracking/CombinationSum.cpp)
+
+### Permutations
+
+- Problem Description: [Permutations - LeetCode](https://leetcode.com/problems/permutations/)
+- Solution: [Permutations.cpp](./Backtracking/Permutations.cpp)
