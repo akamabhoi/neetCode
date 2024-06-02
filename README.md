@@ -327,3 +327,8 @@
 
 - Problem Description: [Permutations - LeetCode](https://leetcode.com/problems/permutations/)
 - Solution: [Permutations.cpp](./Backtracking/Permutations.cpp)
+
+### Subsets II
+
+- Problem Description: [Subsets II - LeetCode](https://leetcode.com/problems/subsets-ii/description/)
+- Solution: [SubsetsII.cpp](./Backtracking/SubsetsII.cpp)
