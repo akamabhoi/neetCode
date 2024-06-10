@@ -337,3 +337,8 @@
 
 - Problem Description: [Combination Sum II - LeetCode](https://leetcode.com/problems/combination-sum-ii/description/)
 - Solution: [CombinationSumII.cpp](./Backtracking/CombinationSumII.cpp)
+
+### Word Search
+
+- Problem Description: [Word Search - LeetCode](https://leetcode.com/problems/word-search/description/)
+- Solution: [WordSearch.cpp](./Backtracking/WordSearch.cpp)
