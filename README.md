@@ -342,3 +342,8 @@
 
 - Problem Description: [Word Search - LeetCode](https://leetcode.com/problems/word-search/description/)
 - Solution: [WordSearch.cpp](./Backtracking/WordSearch.cpp)
+
+### Palindrome Partitioning
+
+- Problem Description: [Palindrome Partitioning - LeetCode](https://leetcode.com/problems/palindrome-partitioning/description/)
+- Solution: [PalindromePartitioning.cpp](./Backtracking/PalindromePartitioning.cpp)
