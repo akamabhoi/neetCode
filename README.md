@@ -347,3 +347,8 @@
 
 - Problem Description: [Palindrome Partitioning - LeetCode](https://leetcode.com/problems/palindrome-partitioning/description/)
 - Solution: [PalindromePartitioning.cpp](./Backtracking/PalindromePartitioning.cpp)
+
+### Letter Combinations of a Phone Number
+
+- Problem Description: [Letter Combinations of a Phone Number - LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- Solution: [LetterCombinationsofaPhoneNumber.cpp](./Backtracking/LetterCombinationsofaPhoneNumber.cpp)
