@@ -352,3 +352,8 @@
 
 - Problem Description: [Letter Combinations of a Phone Number - LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 - Solution: [LetterCombinationsofaPhoneNumber.cpp](./Backtracking/LetterCombinationsofaPhoneNumber.cpp)
+
+### N-Queens
+
+- Problem Description: [N-Queens - LeetCode](https://leetcode.com/problems/n-queens/description/)
+- Solution: [N-Queens.cpp](./Backtracking/N-Queens.cpp)
