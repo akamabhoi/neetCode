@@ -357,3 +357,10 @@
 
 - Problem Description: [N-Queens - LeetCode](https://leetcode.com/problems/n-queens/description/)
 - Solution: [N-Queens.cpp](./Backtracking/N-Queens.cpp)
+
+## Graphs
+
+### Number of Islands
+
+- Problem Description: [Number of Islands - LeetCode](https://leetcode.com/problems/number-of-islands/description/)
+- Solution: [NumberofIslands.cpp](./Graphs/NumberofIslands.cpp)
