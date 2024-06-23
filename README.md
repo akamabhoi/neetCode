@@ -364,3 +364,8 @@
 
 - Problem Description: [Number of Islands - LeetCode](https://leetcode.com/problems/number-of-islands/description/)
 - Solution: [NumberofIslands.cpp](./Graphs/NumberofIslands.cpp)
+
+### Max Area of Island
+
+- Problem Description: [Max Area of Island - LeetCode](https://leetcode.com/problems/max-area-of-island/description/)
+- Solution: [MaxAreaofIsland.cpp](./Graphs/MaxAreaofIsland.cpp)
