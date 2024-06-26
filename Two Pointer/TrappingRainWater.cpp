@@ -36,3 +36,11 @@ public:
         return trapWater;
     }
 };
+
+/*
+Why It Works:
+Water Level Determination:
+The trapped water above a bar is determined by the shorter of the tallest bars to the left and right because water cannot be held higher than the shorter of the two sides.
+Accumulate Water:
+By iterating over each bar (excluding the first and last), the code calculates and accumulates the water trapped above each bar.
+*/
