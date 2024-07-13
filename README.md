@@ -389,3 +389,8 @@
 
 - Problem Description: [Surrounded Regions - LeetCode](https://leetcode.com/problems/surrounded-regions/description/)
 - Solution: [SurroundedRegions.cpp](./Graphs/SurroundedRegions.cpp)
+
+### Course Schedule
+
+- Problem Description: [Course Schedule - LeetCode](https://leetcode.com/problems/course-schedule/description/)
+- Solution: [CourseSchedule.cpp](./Graphs/CourseSchedule.cpp)
