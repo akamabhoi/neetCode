@@ -60,3 +60,31 @@ public:
         return false; // Otherwise, return false
     }
 };
+
+/*
+
+Explanation:
+Graph Construction:
+    The graph is an adjacency list representing the course prerequisites.
+    For each prerequisite pair [u, v], it adds an edge from u to v in the graph (graph[u].push_back(v)).
+
+Indegree Calculation:
+    The indegree vector counts the number of prerequisites (incoming edges) for each course.
+    For each course in the graph, it increments the indegree for its dependent courses.
+
+Queue Initialization:
+    A queue q is used to process courses with no prerequisites (indegree[i] == 0).
+    It adds all such courses to the queue initially.
+
+Topological Sort:
+    The while loop processes the queue to generate a topological order (topo vector).
+    For each course processed, it reduces the indegree of its dependent courses.
+    If any dependent course's indegree becomes 0, it adds it to the queue.
+
+Cycle Detection:
+    After processing all courses, if the number of courses in the topological order is equal to numCourses, it means all courses can be finished (no cycle).
+    If not, it returns false indicating a cycle in the graph (some courses cannot be finished).
+
+This solution uses Kahn's algorithm for topological sorting, which is effective for detecting cycles in directed graphs and checking if a valid ordering of courses is possible.
+
+*/
