@@ -394,3 +394,8 @@
 
 - Problem Description: [Course Schedule - LeetCode](https://leetcode.com/problems/course-schedule/description/)
 - Solution: [CourseSchedule.cpp](./Graphs/CourseSchedule.cpp)
+
+### Course Schedule II
+
+- Problem Description: [Course Schedule II - LeetCode](https://leetcode.com/problems/course-schedule-ii/description/)
+- Solution: [CourseScheduleII.cpp](./Graphs/CourseScheduleII.cpp)
